@@ -2,7 +2,7 @@ Güvenilir Casino Siteleri Yeni Giriş Adresleri
 ===================================
 
 .. meta::
-   :google-site-verification: ou-LsaWFfXsFOEZMnNXX0nqF9d_44VpxWWd_DkuD8zw
+   :google-site-verification: 8XzXG96tjKRIbkhNEmzYFcuuBacSwxFS0D0dfxdQSi8
 
 .. image:: images/betist-giris.jpg
    :width: 600
