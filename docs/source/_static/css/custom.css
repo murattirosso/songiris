@@ -1,0 +1,12 @@
+.rst-versions.shift-up {
+	display:none!important;
+}
+.rst-other-versions {
+	display:none!important;
+}
+.rst-versions {
+	display:none!important;	
+}
+.rst-versions .rst-current-version {
+	display:none!important;	
+}
